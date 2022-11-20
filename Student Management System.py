@@ -18,7 +18,7 @@ tdelta=datetime.timedelta(days=90)
 duedate=date+tdelta
 #Connection------------------------------------------------------------------------------------------------------------------------------------
 try:
-    mycon=tor.connect(host="localhost",user="root",passwd="13")            #My MySQL password
+    mycon=tor.connect(host="localhost",user="root",passwd="123")                        #My MySQL password
 except Exception:
     a=input("Enter MySQL Password : ")                                                  #If above passwords are not same as yours
     try:
@@ -502,7 +502,7 @@ def tasks():                #Main function of this code
                 displayer()
             elif task==7:
                 clrprint("THANK YOU ...... VISIT AGAIN !!!",clr="green")
-                fh=open("Passwords.txt","w")
+                fh=open("Passwords.txt","w")                                          #Make sure if u run in PYTHON IDLE - Give a proper file location 
                 cursor.execute("select stid,sname from stu_register")
                 f=cursor.fetchall()
                 for i in f:
@@ -528,7 +528,7 @@ file.write('''\n********************      Welcome To INDIA INTERNATIONAL SCHOOL 
                           5. Open Browser     6. Display Class
                                         7. Exit''')
 file.close()
-file=open("welcome.txt")
+file=open("welcome.txt")                        #Make sure if u run in PYTHON IDLE - Give a proper file location 
 r=file.read()
 clrprint(r,clr="purple")
 
