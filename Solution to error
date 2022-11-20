@@ -3,10 +3,16 @@ No error can be generated if the pre-requirements are satisfied
 
 <For PYTHON IDLE> 
 If arises about file pls change the file locations of 
-
-1. Passwords.txt
-2. welcome.txt
-
+        1. Passwords.txt
+        2. welcome.txt
 to your desired file location 
+IT may or maynot arise depending on your OS configurations 
 
-if may or maynot arise depending on your OS configurations 
+ALso 
+"----- timeout feature is not supported on IDLE. Please enter your input. -----"
+is a common problem faced by some testers.. due to their pc capability and python version environment
+
+SO VS-CODE IS HIGHLY RECOMMENDED WHILE DEBUGGING 
+
+----- THANK YOU -----
+
