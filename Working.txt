@@ -1,0 +1,53 @@
+********************      Welcome To INDIA INTERNATIONAL SCHOOL      ********************
+
+                          1. New Admission    2. Fees structure
+                          3. Submit Fees      4. Take TC
+                          5. Open Browser     6. Display Class
+                                        7. Exit
+                                        
+_________________________________________________________________________________________                                        
+_________________________________________________________________________________________
+
+
+1. NEW ADMISSION : 
+                        1. Takes your name input ( Error arises if invalid datatype included )
+                        2. Asks for your mobile no. (Error arises for invalid phone no.)
+                        3. Asks for your class (Error arises if data exceeds 12)
+                           a. Asks for your stream if data = 11 or data = 12.
+                              (Section Allocation)
+                              1. Pure Science = "A"
+                              2. Bio Science = "B"
+                              3. Commerce = "C" or "D" {Shuffled}
+                           b. Randomly allocates section for classes 1 - 10
+                                  << After all correctful data received >>
+                        4. Gives a school id (Try To Remember It)
+                        5. Tells to enter it
+                        6. Successful id if entered returns u a Admission No.
+                        
+                                    AND BOOM U ARE ADMITTED !!!
+                                    
+                                    
+2. FEES STRUCTURE :      Asks you to enter your class ( Error arises if data exceeds 12)
+                         And then returns u the 
+                         1. Annual Fee
+                         2. Monthly Fee
+                         3. Total Fee
+                         For that particular class
+  
+  
+3. SUBMIT FEES :         Asks for your SCHOOL ID. If entered correctly asks you to 
+                         enter fees u want to pay. If fee exceeds the required amt returns
+                         you the money paid extra. If not then shows you the due you have.
+                         Includes the date and time of payment
+   
+   
+4. TAKE TC :             Asks you for your SCHOOL ID. If entered correctly grants you TC
+                         showing you your information
+                                                  
+                                                  
+5. OPEN BROWSER :        Opens your school website (IF ANY)
+                         In my case it opens "www.iisasansol.org"
+                         
+
+6. DISPLAYS CLASS :      Asks for your class and section and displays the student list in a
+                         table
