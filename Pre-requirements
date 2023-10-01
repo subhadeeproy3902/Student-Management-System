@@ -1,5 +1,6 @@
 1. MySql (Any version)  
 << Recommended version is 5.5.22 >> (if .py file is to be run in Python 3.8)
+-- Remember the user password and the root
 
 **For PYTHON IDLE** :
    Commands to be run in Cmd (Command Prompt)
