@@ -14,3 +14,5 @@
   2. MySql Connector : pip install mysql.connector (For MySql and Python Connectivity)
   3. Clrprint : pip install clrprint  (For colored prints)
   4. PrettyTable : pip install prettytable (For a tabular format of data output)
+
+------ Thank You -------
