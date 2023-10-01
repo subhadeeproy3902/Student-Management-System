@@ -11,11 +11,13 @@ from prettytable import PrettyTable as PT     #pip install prettytable      #use
 from datetime import datetime as dfg                                                      #used here to store current time values
 import time as qwerty
 #----------------------------------------------------------------------------------------------------------------------------------------------
+
 date=datetime.date.today()
 now=dfg.now()
 time=now.strftime("%H:%M")
 tdelta=datetime.timedelta(days=90)
 duedate=date+tdelta
+
 #Connection------------------------------------------------------------------------------------------------------------------------------------
 try:
     mycon=tor.connect(host="localhost",user="root",passwd="123")                        #My MySQL password
