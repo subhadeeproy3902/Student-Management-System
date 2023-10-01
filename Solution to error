@@ -8,11 +8,10 @@ If arises about file pls change the file locations of
 to your desired file location 
 IT may or maynot arise depending on your OS configurations 
 
-ALso 
+Also
 "----- timeout feature is not supported on IDLE. Please enter your input. -----"
 is a common problem faced by some testers.. due to their pc capability and python version environment
 
 SO VS-CODE IS HIGHLY RECOMMENDED WHILE DEBUGGING 
 
------- THANK YOU -------
 
