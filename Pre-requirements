@@ -1,7 +1,9 @@
 1. MySql (Any version)  
 << Recommended version is 5.5.22 >> (if .py file is to be run in Python 3.8)
 
+
 **For PYTHON IDLE** :
+
    Commands to be run in Cmd (Command Prompt)
    1. MySql Connector : pip install mysql.connector (For MySql and Python Connectivity)
    2. Clrprint : pip install clrprint  (For colored prints)
@@ -9,6 +11,7 @@
    4. PrettyTable : pip install prettytable (For a tabular format of data output)
 
 **For VS Code** : 
+
   Command to be run in the terminal
   1. Python Extention
   2. MySql Connector : pip install mysql.connector (For MySql and Python Connectivity)
