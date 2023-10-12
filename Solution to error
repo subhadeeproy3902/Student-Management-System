@@ -10,6 +10,7 @@ IT may or maynot arise depending on your OS configurations
 
 Also
 "----- timeout feature is not supported on IDLE. Please enter your input. -----"
+
 is a common problem faced by some testers.. due to their pc capability and python version environment
 
 SO VS-CODE IS HIGHLY RECOMMENDED WHILE DEBUGGING.
