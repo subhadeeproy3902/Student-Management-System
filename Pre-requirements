@@ -3,6 +3,7 @@
 
 **For PYTHON IDLE** :
    Commands to be run in Cmd (Command Prompt)
+
    1. MySql Connector : pip install mysql.connector (For MySql and Python Connectivity)
    2. Clrprint : pip install clrprint  (For colored prints)
    3. Datetime : pip install datetime (If code shows errors i.e datetime isnt installed in your python version)
