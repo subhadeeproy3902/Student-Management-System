@@ -1,12 +1,16 @@
 No error can be generated if the pre-requirements are satisfied
 < For VS CODE >
 
+
+
 <For PYTHON IDLE> 
 If arises about file pls change the file locations of 
         1. Passwords.txt
         2. welcome.txt
 to your desired file location 
 IT may or maynot arise depending on your OS configurations 
+
+
 
 Also
 "----- timeout feature is not supported on IDLE. Please enter your input. -----"
