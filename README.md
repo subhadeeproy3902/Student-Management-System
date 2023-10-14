@@ -6,5 +6,6 @@ Created this project when I was a python learner in Class 12. Working of it is s
 
 Some pre-requirements are given in the pre-requirements section before debugging the python file.
 Make Sure you also read the Solution to errors 
+
  
-------- THANK YOU -------
+-------- THANK YOU --------
